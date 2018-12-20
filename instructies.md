@@ -7,4 +7,4 @@ Download vervolgens `StickerMaker`.
 https://github.com/osgmustisnt/stickers/StickerMaker.png
 https://github.com/osgmustisnt/stickers/blob/master/StickerMaker.png
 
-![alt text](https://github.com/osgmustisnt/stickers/blob/master/StickerMaker.png "Logo Title Text 1")
+![alt text](https://github.com/osgmustisnt/stickers/blob/master/StickerMaker.png)
