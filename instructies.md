@@ -9,7 +9,7 @@ https://play.google.com/store/apps/details?id=com.marsvard.stickermakerforwhatsa
 ![alt text](https://github.com/osgmustisnt/stickers/blob/master/Sticker_Maker.png)
 
 Download vervolgens het `OSG stickerfestijn`.
-[downloadlink naar het OSG stickerfestijn](http://s000.tinyupload.com/download.php?file_id=09516317065236637445&t=0951631706523663744540764)
+[downloadlink naar het OSG stickerfestijn](http://s000.tinyupload.com/download.php?file_id=65670242938197844331&t=6567024293819784433104789)
 
 Ga naar Whatapp en klik op de paperclip, druk daarna op `documents`.
 ![alt text](https://github.com/osgmustisnt/stickers/blob/master/IMG_20181220_205716.png)
