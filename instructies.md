@@ -1,6 +1,6 @@
 Om het officiele `OSG stickerfestijn` te gebruiken moet je eerst dit downloaden:
 
-[downloadlink naar het OSG stickerfestijn]()
+[downloadlink naar het OSG stickerfestijn](http://s000.tinyupload.com/?file_id=09516317065236637445)
 
 Download vervolgens `StickerMaker`.
 
