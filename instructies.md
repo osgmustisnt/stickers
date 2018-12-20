@@ -44,4 +44,5 @@ Je kan nu de stickers gebruiken!
 
 # Apple
 
-Je zoekt het maar uit lmao.
+Apple doet veel te moeilijk over sticker apps dus die zijn er vrijwel niet.
+Vraag maar aan je vrienden met android of ze zo lief om alle stickers te versturen. 
