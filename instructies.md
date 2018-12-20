@@ -1,4 +1,8 @@
 # Android
+
+
+BELANGRIJK!!!
+======
 Om het officiele `OSG stickerfestijn` te gebruiken moet je eerst `StickerMaker` downloaden.
 https://play.google.com/store/apps/details?id=com.marsvard.stickermakerforwhatsapp
 
