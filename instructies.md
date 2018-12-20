@@ -4,7 +4,10 @@ Om het officiele `OSG stickerfestijn` te gebruiken moet je eerst dit downloaden:
 
 Download vervolgens `StickerMaker`.
 
-https://github.com/osgmustisnt/stickers/StickerMaker.png
-https://github.com/osgmustisnt/stickers/blob/master/StickerMaker.png
+### Android
+https://play.google.com/store/apps/details?id=com.marsvard.stickermakerforwhatsapp
+
+### IOS
+https://itunes.apple.com/us/app/sticker-maker-studio/id1443326857?mt=8
 
 ![alt text](https://github.com/osgmustisnt/stickers/blob/master/StickerMaker.png)
