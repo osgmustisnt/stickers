@@ -48,7 +48,27 @@ Je kan nu de stickers gebruiken!
 
 # Apple
 
-Apple doet veel te moeilijk over sticker apps dus die zijn er vrijwel niet.
-Vraag maar aan je vrienden met android of ze zo lief om alle stickers te versturen. 
-
+BELANGRIJK, DOWNLOAD DE APP!!!
+======
 [Download deze app en prbeer het zelfde als voor Android](https://itunes.apple.com/us/app/sticker-maker-studio/id1443326857?mt=8)
+
+BELANGRIJK, DOWNLOAD DE STICKERS!!!
+======
+Download vervolgens het `OSG stickerfestijn`.
+[downloadlink naar het OSG stickerfestijn](http://s000.tinyupload.com/download.php?file_id=65670242938197844331&t=6567024293819784433197099)
+
+Wanneer je het bestand hebt geopend krijg je de `openen in` optie. 
+Kies voor `StickerMaker`.
+
+Druk op `add to my library`
+![alt text](https://github.com/osgmustisnt/stickers/blob/master/IMG_20181220_210423.png)
+
+Druk op `add to whatsapp`
+![alt text](https://github.com/osgmustisnt/stickers/blob/master/IMG_20181220_210440.png)
+
+Bevestig het toevoegen van de stickers
+![alt text](https://github.com/osgmustisnt/stickers/blob/master/IMG_20181220_210459.png)
+
+Je kan nu de stickers gebruiken!
+![alt text](https://github.com/osgmustisnt/stickers/blob/master/IMG_20181220_224538.png)
+
