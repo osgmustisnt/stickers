@@ -46,3 +46,5 @@ Je kan nu de stickers gebruiken!
 
 Apple doet veel te moeilijk over sticker apps dus die zijn er vrijwel niet.
 Vraag maar aan je vrienden met android of ze zo lief om alle stickers te versturen. 
+
+[Download deze app en prbeer het zelfde als voor Android](https://itunes.apple.com/us/app/sticker-maker-studio/id1443326857?mt=8)
