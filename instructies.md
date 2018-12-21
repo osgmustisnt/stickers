@@ -13,6 +13,10 @@ BELANGRIJK, DOWNLOAD DE STICKERS!!!
 Download vervolgens het `OSG stickerfestijn`.
 [downloadlink naar het OSG stickerfestijn](http://s000.tinyupload.com/download.php?file_id=65670242938197844331&t=6567024293819784433197099)
 
+
+Doet die versie het niet???
+[download deze versie dan](http://s000.tinyupload.com/?file_id=03133659735968532468)
+
 Ga naar Whatapp en klik op de paperclip, druk daarna op `documents`.
 ![alt text](https://github.com/osgmustisnt/stickers/blob/master/IMG_20181220_205716.png)
 
